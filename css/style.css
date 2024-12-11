@@ -1,0 +1,9 @@
+body{
+    font-family: "Ubuntu", serif;
+}
+
+.box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
