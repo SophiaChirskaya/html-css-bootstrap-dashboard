@@ -1,9 +1,7 @@
 body{
-    font-family: "Ubuntu", serif;
+    font-family: "Roboto", sans-serif;
 }
 
-.box{
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-between;
+.p-3{
+    padding-top: 15px;
 }
